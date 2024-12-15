@@ -1,8 +1,6 @@
 # ZMQ-IPC
 A messaging framework using ZeroMQ and MessagePack, facilitating modular inter-process communication with standardized message structures.
 
-A Python messaging framework using ZeroMQ and MessagePack, providing base classes for publishers and subscribers to facilitate modular inter-process communication with standardized message structures.
-
 ## Features
 
 - **Base Classes**: Simplifies the setup of messaging nodes.
